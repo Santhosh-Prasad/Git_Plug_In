@@ -15,14 +15,14 @@ cd .vim
 
 step 5 
 create dir for plug in add on 
-mkdir ftdetect  ftplugin  plugin  syntax
+**mkdir ftdetect  ftplugin  plugin  syntax**
 
 step 6 
 open 
-ftdetect create systemverilog.vim
+**ftdetect create systemverilog.vim
 ftplugin create systemverilog.vim
 plugin   create matchit.vim
-syntax   create systemverilog.vim
+syntax   create systemverilog.vim**
 
 step 7 
 copy paste as it is in the file 
